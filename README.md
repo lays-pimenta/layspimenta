@@ -1,6 +1,6 @@
 # layspimenta
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=layspimenta&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=layspimenta&color=green" alt="Profile views" /> </p>
 
 - programming student
 
